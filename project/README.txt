@@ -1,0 +1,1 @@
+ok so make the WOW.txt file the absolute path to the WOWFOLDER directory in the project folder for testing and fiddlefuckery. do not use any quotes just directly copypaste it.
